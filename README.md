@@ -6,18 +6,18 @@ Do you ever go to Instagram just to casually browse through someone's page, only
 
 Before:
 
-![Banner before extension](./media/screenshots/size-converted/before-1.png)
+![Banner before extension](https://raw.githubusercontent.com/spencercorwin/instagram-unlimited/master/media/screenshots/sized-converted/before-1.png)
 
 After:
 
-![Banner after extension](./media/screenshots/size-converted/after-1.png)
+![Banner after extension](https://raw.githubusercontent.com/spencercorwin/instagram-unlimited/master/media/screenshots/sized-converted/after-1.png)
 
 ### Allows You to Scroll Continuously
 
 Before:
 
-![Scrolling before extension](./media/screenshots/size-converted/before-2.png)
+![Scrolling before extension](https://raw.githubusercontent.com/spencercorwin/instagram-unlimited/master/media/screenshots/sized-converted/before-2.png)
 
 After:
 
-![Scrolling after extension](./media/screenshots/size-converted/after-2.png)
+![Scrolling after extension](https://raw.githubusercontent.com/spencercorwin/instagram-unlimited/master/media/screenshots/sized-converted/after-2.png)
