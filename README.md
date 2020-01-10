@@ -2,6 +2,8 @@
 
 Do you ever go to Instagram just to casually browse through someone's page, only to be stopped after a few scrolls by Instagram? Well not anymore, with the Instagram Unlimited extension. This extension will allow you to scroll Instagram to your hearts content without ever being stopped by Instagram. It will also remove the annoying banner at the bottom of the screen that nags you to log in or sign up.
 
+Go [here](https://chrome.google.com/webstore/detail/instagram-unlimited/ipmehihejmhfhhieejoaclnmeoedijen) to check it out and install it.
+
 ### Allows You to Scroll Continuously
 
 Before:
