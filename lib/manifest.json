@@ -1,7 +1,7 @@
 {
-  "name": "Instagram Unlimited",
+  "name": "Gram Unlimited",
   "version": "1.0",
-  "description": "Allows you to scroll Instagram continuously without being logged into Instagram.",
+  "description": "Allows you to scroll 'the Gram' continuously without being logged in.",
   "permissions": ["activeTab"],
   "content_scripts": [
     {
